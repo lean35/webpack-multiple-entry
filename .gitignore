@@ -1,0 +1,8 @@
+/export
+.idea
+.awcache
+PS_CustomPagesExport/
+dist
+node_modules
+packages/**/*.zip
+packages/_BAK
